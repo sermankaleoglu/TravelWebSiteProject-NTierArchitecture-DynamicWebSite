@@ -1,0 +1,17 @@
+C:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.data\obj\Debug\net7.0\TravelWebSite.data.csproj.AssemblyReference.cache
+C:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.data\obj\Debug\net7.0\TravelWebSite.data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.data\obj\Debug\net7.0\TravelWebSite.data.AssemblyInfoInputs.cache
+C:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.data\obj\Debug\net7.0\TravelWebSite.data.AssemblyInfo.cs
+C:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.data\obj\Debug\net7.0\TravelWebSite.data.csproj.CoreCompileInputs.cache
+c:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.data\bin\Debug\net7.0\TravelWebSite.data.deps.json
+c:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.data\bin\Debug\net7.0\TravelWebSite.data.runtimeconfig.json
+C:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.data\bin\Debug\net7.0\TravelWebSite.data.dll
+C:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.data\bin\Debug\net7.0\TravelWebSite.data.pdb
+C:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.data\bin\Debug\net7.0\TravelWebSite.entity.dll
+C:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.data\bin\Debug\net7.0\TravelWebSite.entity.pdb
+c:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.data\obj\Debug\net7.0\TravelWebSite.data.csproj.CopyComplete
+C:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.data\obj\Debug\net7.0\TravelWebSite.data.dll
+C:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.data\obj\Debug\net7.0\refint\TravelWebSite.data.dll
+C:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.data\obj\Debug\net7.0\TravelWebSite.data.pdb
+c:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.data\obj\Debug\net7.0\TravelWebSite.data.genruntimeconfig.cache
+c:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.data\obj\Debug\net7.0\ref\TravelWebSite.data.dll

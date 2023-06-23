@@ -1,0 +1,11 @@
+@model List<Product> 
+<div class="list-group">
+    <div class="row">
+        @foreach (var product in Model)
+        {
+            <div class="col-md-3">
+                @await Html.PartialAsync("~/Views/Shared/_productcard.cshtml",product)
+            </div>
+        }
+    </div>
+</div>

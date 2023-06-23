@@ -1,0 +1,12 @@
+C:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.entity\bin\Debug\net7.0\TravelWebSite.entity.deps.json
+C:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.entity\bin\Debug\net7.0\TravelWebSite.entity.dll
+C:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.entity\bin\Debug\net7.0\TravelWebSite.entity.pdb
+C:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.entity\obj\Debug\net7.0\TravelWebSite.entity.csproj.AssemblyReference.cache
+C:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.entity\obj\Debug\net7.0\TravelWebSite.entity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.entity\obj\Debug\net7.0\TravelWebSite.entity.AssemblyInfoInputs.cache
+C:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.entity\obj\Debug\net7.0\TravelWebSite.entity.AssemblyInfo.cs
+C:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.entity\obj\Debug\net7.0\TravelWebSite.entity.csproj.CoreCompileInputs.cache
+C:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.entity\obj\Debug\net7.0\TravelWebSite.entity.dll
+C:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.entity\obj\Debug\net7.0\refint\TravelWebSite.entity.dll
+C:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.entity\obj\Debug\net7.0\TravelWebSite.entity.pdb
+C:\Users\Serman\OneDrive\Masaüstü\BilisimEgitimKurs\TravelProject\TravelWebSite.entity\obj\Debug\net7.0\ref\TravelWebSite.entity.dll

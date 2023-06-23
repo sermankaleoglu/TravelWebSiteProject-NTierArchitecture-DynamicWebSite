@@ -1,0 +1,296 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite\\TravelWebSite.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite.business\\TravelWebSite.business.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite.business\\TravelWebSite.business.csproj",
+        "projectName": "TravelWebSite.business",
+        "projectPath": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite.business\\TravelWebSite.business.csproj",
+        "packagesPath": "C:\\Users\\Serman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite.business\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Serman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite.data\\TravelWebSite.data.csproj": {
+                "projectPath": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite.data\\TravelWebSite.data.csproj"
+              },
+              "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite.entity\\TravelWebSite.entity.csproj": {
+                "projectPath": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite.entity\\TravelWebSite.entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite.data\\TravelWebSite.data.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite.data\\TravelWebSite.data.csproj",
+        "projectName": "TravelWebSite.data",
+        "projectPath": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite.data\\TravelWebSite.data.csproj",
+        "packagesPath": "C:\\Users\\Serman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite.data\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Serman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite.entity\\TravelWebSite.entity.csproj": {
+                "projectPath": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite.entity\\TravelWebSite.entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite.entity\\TravelWebSite.entity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite.entity\\TravelWebSite.entity.csproj",
+        "projectName": "TravelWebSite.entity",
+        "projectPath": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite.entity\\TravelWebSite.entity.csproj",
+        "packagesPath": "C:\\Users\\Serman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite.entity\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Serman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite\\TravelWebSite.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite\\TravelWebSite.csproj",
+        "projectName": "TravelWebSite",
+        "projectPath": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite\\TravelWebSite.csproj",
+        "packagesPath": "C:\\Users\\Serman\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Serman\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite.business\\TravelWebSite.business.csproj": {
+                "projectPath": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite.business\\TravelWebSite.business.csproj"
+              },
+              "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite.data\\TravelWebSite.data.csproj": {
+                "projectPath": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite.data\\TravelWebSite.data.csproj"
+              },
+              "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite.entity\\TravelWebSite.entity.csproj": {
+                "projectPath": "C:\\Users\\Serman\\OneDrive\\Masaüstü\\BilisimEgitimKurs\\TravelProject\\TravelWebSite.entity\\TravelWebSite.entity.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[7.0.5, )"
+            },
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

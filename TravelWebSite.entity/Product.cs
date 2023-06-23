@@ -1,0 +1,15 @@
+namespace TravelWebSite.entity
+{
+    public class Product
+    {
+        public int ProductId { get; set; }
+        public string? Name { get; set; }
+        public double Price { get; set; }
+        public string? Description { get; set; }
+        public string? ImageUrl { get; set; }
+
+        public List<ProductCategory>? ProductCategory { get; set; }
+        public List<ProductCity>? ProductCity { get; set; }
+     
+    }
+}
